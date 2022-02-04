@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
 </div>
+
+- 🔭 I’m currently working on Skydance Animation
+- 🌱 I’m currently learning Java for Android Application
+- 👯 I’m looking to collaborate on a videogame.
+- 📫 How to reach me: assumcampos@gmail.com
