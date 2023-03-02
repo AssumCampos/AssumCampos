@@ -22,9 +22,8 @@
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="300" height="200"/>
 </div>
 :woman_technologist: About Me : <br/><br/>
-  :trophy: I'm in my last year of Multimedia Engineering. <br/><br/>
-  🔭 I’m currently working on Skydance Animation Madrid as Junior TD. <br/><br/>
-  🌱 I’m currently learning Java for Android Application. <br/><br/>
+  🔭 I’m working on Skydance Animation Madrid as Junior TD. <br/><br/>
+  🌱 I’m currently improving my skills as videogame coder. <br/><br/>
   👯 I’m looking to collaborate on a videogame. <br/><br/>
   📫 How to reach me: assumcampos@gmail.com. <br/><br/>
   
